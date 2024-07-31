@@ -1,6 +1,6 @@
 **Project: Data Professional Survey Analysis (Power BI)**
 
-- **Description:** Analyzed a dataset from a Data Professional Survey using Power BI to create an interactive dashboard.
+- **Description:** Analyzed and transformed a dataset from a Data Professional Survey in Excel and used Microsoft Power BI to create an interactive dashboard.
 - **Files:** `data_professional_survey.pbix`
 - **Key Features:**
   - **Country of Survey Takers:** Geographical distribution of respondents.
